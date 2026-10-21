@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 272.0" width="600" height="272.0" role="img" aria-label="Tech stack"><title>Tech stack</title><rect x="1" y="1" width="598" height="270.0" rx="22" fill="#FFFFFF" stroke="#E4E3F4" stroke-width="2"/><text x="32" y="49.0" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#6B6B80">FRONTEND</text>
+<rect x="150" y="30" width="106" height="28" rx="14" fill="#EEEDFF"/>
+<text x="203.0" y="48.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">TypeScript</text>
+<rect x="264" y="30" width="106" height="28" rx="14" fill="#EEEDFF"/>
+<text x="317.0" y="48.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">JavaScript</text>
+<rect x="378" y="30" width="67" height="28" rx="14" fill="#EEEDFF"/>
+<text x="411.5" y="48.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">React</text>
+<rect x="453" y="30" width="82" height="28" rx="14" fill="#EEEDFF"/>
+<text x="494.0" y="48.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">Next.js</text>
+<rect x="150" y="68" width="59" height="28" rx="14" fill="#EEEDFF"/>
+<text x="179.5" y="86.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">HTML</text>
+<rect x="217" y="68" width="51" height="28" rx="14" fill="#EEEDFF"/>
+<text x="242.5" y="86.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">CSS</text>
+<line x1="32" y1="109.0" x2="568" y2="109.0" stroke="#EEEDF6" stroke-width="1.5"/>
+<text x="32" y="141.0" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#6B6B80">BACKEND</text>
+<rect x="150" y="122.0" width="51" height="28" rx="14" fill="#EEEDFF"/>
+<text x="175.5" y="140.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">PHP</text>
+<rect x="209" y="122.0" width="82" height="28" rx="14" fill="#EEEDFF"/>
+<text x="250.0" y="140.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">Laravel</text>
+<rect x="299" y="122.0" width="51" height="28" rx="14" fill="#EEEDFF"/>
+<text x="324.5" y="140.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">SQL</text>
+<rect x="358" y="122.0" width="184" height="28" rx="14" fill="#EEEDFF"/>
+<text x="450.0" y="140.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#4543F3">Relational databases</text>
+<line x1="32" y1="163.0" x2="568" y2="163.0" stroke="#EEEDF6" stroke-width="1.5"/>
+<text x="32" y="195.0" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#6B6B80">BEYOND CODE</text>
+<rect x="150" y="176.0" width="106" height="28" rx="14" fill="#FFF3CC"/>
+<text x="203.0" y="194.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#7A5800">E-commerce</text>
+<rect x="264" y="176.0" width="51" height="28" rx="14" fill="#FFF3CC"/>
+<text x="289.5" y="194.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#7A5800">SEO</text>
+<rect x="323" y="176.0" width="51" height="28" rx="14" fill="#FFF3CC"/>
+<text x="348.5" y="194.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#7A5800">CRO</text>
+<rect x="382" y="176.0" width="43" height="28" rx="14" fill="#FFF3CC"/>
+<text x="403.5" y="194.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#7A5800">UX</text>
+<rect x="433" y="176.0" width="98" height="28" rx="14" fill="#FFF3CC"/>
+<text x="482.0" y="194.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#7A5800">Marketing</text>
+<rect x="150" y="214.0" width="129" height="28" rx="14" fill="#FFF3CC"/>
+<text x="214.5" y="232.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#7A5800">Accessibility</text></svg>

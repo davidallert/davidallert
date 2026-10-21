@@ -1,294 +1,217 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6C63FF,100:00D4FF&text=David%20Allert&fontColor=ffffff&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Developer%20%C2%B7%20E-commerce%20Background&descAlignY=60&descSize=20" alt="David Allert, Fullstack Developer" width="100%" />
+<img src="assets/header.svg" alt="David Allert, fullstack developer in Gothenburg, Sweden" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=6C63FF&center=true&vCenter=true&width=720&height=50&lines=Fullstack+developer+based+in+Gothenburg;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;I+build+things+that+work+%26+convert;E-commerce+mindset.+Engineer+discipline." alt="Typing animation with my tagline" />
+<br/><br/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/david-allert/"><img src="https://img.shields.io/badge/LinkedIn-David%20Allert-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.petfolio.se/"><img src="https://img.shields.io/badge/Website-petfolio.se-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<img src="https://img.shields.io/badge/Open%20to%20work-Fullstack%20roles-2ea44f?style=for-the-badge" alt="Open to work" />
-<img src="https://img.shields.io/badge/Based%20in-Gothenburg%2C%20Sweden-005293?style=for-the-badge" alt="Based in Gothenburg, Sweden" />
+<a href="https://www.linkedin.com/in/david-allert/"><img src="assets/btn-linkedin.svg" height="40" alt="Connect on LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.petfolio.se/"><img src="assets/btn-website.svg" height="40" alt="petfolio.se" /></a>&nbsp;&nbsp;<img src="assets/pill-open.svg" height="40" alt="Open to work" />
 
 </div>
 
-<br/>
+<br/><br/>
 
-## 👋 About me
+## About
 
-I’m a fullstack developer who came into code through **e-commerce**. Working close to SEO, conversion optimisation, UX and marketing taught me to ask *why* a feature exists before asking *how* to build it. Today I build the software side of that world: typed React and Next.js frontends, Laravel backends, and the relational databases underneath.
+I’m a fullstack developer based in Gothenburg. I come from e-commerce, where I worked with SEO, conversion optimisation, UX and marketing. These days I mostly write TypeScript, React and Next.js on the front end, PHP and Laravel on the back end, and SQL underneath.
 
-That combination means I think about the person using the product and the business reason behind it, not just the ticket in front of me.
+That background shapes how I work. I want to know what a feature is for and who it helps before I build it, and I care about the things that tend to get skipped: search visibility, usability and accessibility.
 
-| | |
-|---|---|
-| 🔭 **Currently building** | [SchemaAssistant](https://github.com/davidallert/schemassistant_client), an AI-based Schema.org generator (MVP, in active development) |
-| 💼 **Looking for** | Fullstack and frontend roles with React, Next.js or Laravel <!-- ✏️ adjust to what you want --> |
-| 🧰 **Strongest in** | TypeScript, React, Next.js, Laravel, SQL |
-| 🛒 **Secret weapon** | Real-world knowledge of SEO, CRO, UX and marketing |
+- **Right now:** building [SchemaAssistant](https://github.com/davidallert/schemassistant_client), a tool that generates Schema.org structured data from a URL
+- **Looking for:** fullstack or frontend roles with React, Next.js or Laravel <!-- edit this line to match what you want -->
+- **Based in:** Gothenburg, Sweden
 
-<br/>
+<br/><br/>
 
-## 🧭 Choose your path
+## Choose your path
 
-Pick whichever describes you. The page adapts. *(Click to expand.)*
+Pick whichever fits you best and I’ll keep it short.
 
 <details>
-<summary><b>🧑‍💼 I’m a recruiter or hiring manager</b></summary>
+<summary><b>I’m a recruiter or hiring manager</b></summary>
 
 <br/>
 
-**The 20-second version**
+- **Role:** fullstack developer
+- **Stack:** TypeScript, JavaScript, React, Next.js, PHP, Laravel, SQL
+- **Background:** e-commerce, so I know SEO, CRO, UX and marketing from the business side
+- **Where to start:** [Pet Progress](https://github.com/davidallert/pet_progress_frontend) has a live demo, and [SchemaAssistant](https://github.com/davidallert/schemassistant_client) is what I’m working on now
+- **Location:** Gothenburg, Sweden
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/david-allert/)
 
-- **Role:** Fullstack developer (frontend-leaning, comfortable across the stack)
-- **Stack:** TypeScript, React, Next.js, PHP, Laravel, SQL
-- **Differentiator:** an e-commerce background, so I understand SEO, conversion and UX, and I build with business outcomes in mind
-- **Proof:** deployed, multi-repo projects below, built end to end (frontend, backend, deployment)
-- **Where:** Gothenburg, Sweden
-
-**Best places to look first:** [Pet Progress](#-pet-progress) · [SchemaAssistant](#-schemassistant) · [Stenrik](#-stenrik)
-
-**Let’s talk:** [LinkedIn](https://www.linkedin.com/in/david-allert/)
+<br/>
 
 </details>
 
 <details>
-<summary><b>🧑‍💻 I’m a fellow developer</b></summary>
+<summary><b>I’m a developer</b></summary>
 
 <br/>
 
-- Projects are split into **separate frontend and backend repos**, the way real teams ship them.
-- Frontends are written in **TypeScript** on **Next.js**.
-- The Laravel backend ships with a **PHPUnit** setup and a dedicated `tests` directory.
-- Stenrik is documented with **JSDoc** (there is a generated `docs` folder).
-- I care about boring-but-important things: semantic HTML, accessibility, performance and sensible data modelling.
+- My projects are split into separate frontend and backend repositories, the way they usually are on a team.
+- The frontends are written in TypeScript on Next.js.
+- The Laravel backend has PHPUnit set up.
+- Stenrik is plain JavaScript documented with JSDoc.
+- I try to get the basics right: semantic HTML, accessibility and sensible data modelling.
+
+<br/>
 
 </details>
 
 <details>
-<summary><b>🛒 I work in e-commerce or marketing</b></summary>
+<summary><b>I work in e-commerce or marketing</b></summary>
 
 <br/>
 
-I speak your language. I’ve worked with **SEO, CRO, UX and marketing**, so when you say *“we need structured data for rich results”* or *“this checkout step is leaking users”*, I don’t need it translated into tickets.
+I’ve worked on the marketing and conversion side of online stores, so SEO, CRO and UX are familiar ground, and I’m comfortable in a room with both marketers and developers.
 
-That’s exactly why I built [SchemaAssistant](https://github.com/davidallert/schemassistant_client): structured data matters for search visibility, and generating it should not be painful.
+[SchemaAssistant](https://github.com/davidallert/schemassistant_client) sits right on that line. It generates Schema.org structured data for a page from its URL, which helps search engines understand what the page is about.
+
+<br/>
 
 </details>
 
+<br/><br/>
+
+## Stack
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Frontend: TypeScript, JavaScript, React, Next.js, HTML, CSS. Backend: PHP, Laravel, SQL, relational databases. Beyond code: e-commerce, SEO, CRO, UX, marketing, accessibility." width="600" />
+</picture>
+</p>
+
+<br/><br/>
+
+## Projects
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-pet-progress-dark.svg">
+  <img src="assets/card-pet-progress-light.svg" alt="Pet Progress: a fullstack application with a Next.js frontend and a Laravel backend" width="600" />
+</picture>
 <br/>
-
-## 🧰 Tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,laravel,mysql,postgres,html,css,git,github,vercel&perline=13" alt="Tech stack icons" />
-
-</div>
-
-<br/>
-
-## 🚀 Featured projects
-
-### 🐾 Pet Progress
-
-> A fullstack application split into a typed **Next.js frontend** and a **Laravel backend**, deployed and live. <!-- ✏️ Add one sentence about what users can actually do in the app. -->
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/PHPUnit-366488?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
-
-🔗 [**Live demo**](https://pet-progress-frontend.vercel.app) · [Frontend repo](https://github.com/davidallert/pet_progress_frontend) · [Backend repo](https://github.com/davidallert/pet_progress_backend)
-
-<br/>
-
-### 🧩 SchemaAssistant
-
-> An **AI-based Schema.org generator**. Give it a URL and it generates structured data for the page. It grew straight out of my SEO background: structured data helps search engines understand a page and is what powers rich results. *(MVP, under active development.)*
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/AI-powered-6C63FF?style=flat-square" alt="AI powered" />
-<img src="https://img.shields.io/badge/Schema.org-005A9C?style=flat-square" alt="Schema.org" />
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github.com/davidallert/schemassistant_client/raw/main/public/images/readme2.png" alt="SchemaAssistant generating schema" width="100%" /><br/>
-      <sub>Generating schema</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/davidallert/schemassistant_client/raw/main/public/images/readme3.png" alt="SchemaAssistant example output" width="100%" /><br/>
-      <sub>Example output</sub>
-    </td>
-  </tr>
-</table>
-
-🔗 [Client repo](https://github.com/davidallert/schemassistant_client) · [Server repo](https://github.com/davidallert/schemassistant_server)
+<a href="https://pet-progress-frontend.vercel.app">Live demo</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/davidallert/pet_progress_frontend">Frontend</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/davidallert/pet_progress_backend">Backend</a>
+</p>
+<!-- Add one sentence to the Pet Progress card describing what users can do in the app. -->
 
 <br/>
 
-### 🗿 Stenrik
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-schemassistant-dark.svg">
+  <img src="assets/card-schemassistant-light.svg" alt="SchemaAssistant: generates Schema.org structured data from a URL" width="600" />
+</picture>
+<br/>
+<a href="https://github.com/davidallert/schemassistant_client">Client</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/davidallert/schemassistant_server">Server</a>
+</p>
 
-> A website that plots **Swedish ancient monuments (fornminnen) on a map**, so history is something you can explore instead of just read about. <!-- ✏️ Add a live link here if the site is deployed. -->
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/JSDoc-documented-3178C6?style=flat-square" alt="JSDoc documented" />
-<img src="https://img.shields.io/badge/Maps-interactive-2ea44f?style=flat-square" alt="Interactive maps" />
-
-🔗 [Repo](https://github.com/davidallert/stenrik)
+<p align="center">
+<img src="https://github.com/davidallert/schemassistant_client/raw/main/public/images/readme2.png" alt="SchemaAssistant while generating schema" width="48%" />&nbsp;&nbsp;<img src="https://github.com/davidallert/schemassistant_client/raw/main/public/images/readme3.png" alt="SchemaAssistant example output" width="48%" />
+</p>
 
 <br/>
 
-## 🎯 Beyond the code
-
-Most developers can build a feature. Fewer know whether it will rank, convert or be usable.
-
-| 🛒 E-commerce | 🔍 SEO | 📈 CRO |
-|:---:|:---:|:---:|
-| Understand how online stores actually make money | Structured data, content and technical foundations | Turning visitors into customers |
-
-| 🎨 UX | 📣 Marketing | ♿ Accessibility |
-|:---:|:---:|:---:|
-| Designing for the person, not the spec | Knowing what the business is trying to achieve | Building with it in mind from the start |
-
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stenrik-dark.svg">
+  <img src="assets/card-stenrik-light.svg" alt="Stenrik: Swedish ancient monuments on a map" width="600" />
+</picture>
 <br/>
+<a href="https://github.com/davidallert/stenrik">Repository</a>
+</p>
 
-## 📊 Activity
+<br/><br/>
 
-<div align="center">
+## Contribution graph
 
+My contribution graph, played by a snake. It’s generated by a GitHub Action in this repository and refreshes automatically.
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidallert/davidallert/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidallert/davidallert/output/github-snake.svg" />
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/davidallert/davidallert/output/github-snake.svg" width="100%" />
 </picture>
+</p>
 
 <br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davidallert&bg_color=0d1117&color=6C63FF&line=00D4FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" alt="Contribution activity graph" width="100%" />
-
-</div>
-
-<br/>
-
-## 🎮 Mini-games
-
-Three rounds, one per language I work in. Try to answer **before** you open the spoiler. *(Yes, there’s a trick in every one.)*
 
 <details>
-<summary><b>Round 1 · JavaScript 🟨</b> What does this print?</summary>
+<summary><b>More arcade games</b></summary>
 
 <br/>
 
-```js
-const prices = [10, 5, 20];
-prices.sort();
-console.log(prices);
-```
+The same graph, played by five more games.
 
-<details>
-<summary>👀 Reveal the answer</summary>
+**Pac-Man**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidallert/davidallert/arcade/pacman-contribution-graph-dark.svg" />
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/davidallert/davidallert/arcade/pacman-contribution-graph.svg" width="100%" />
+</picture>
 
 <br/>
 
-`[10, 20, 5]`
+**Breakout**
 
-`sort()` compares elements as **strings** by default, so `"10" < "20" < "5"`. The fix is to pass a comparator:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidallert/davidallert/arcade/breakout-contribution-graph-dark.svg" />
+  <img alt="Breakout played on my contribution graph" src="https://raw.githubusercontent.com/davidallert/davidallert/arcade/breakout-contribution-graph.svg" width="100%" />
+</picture>
 
-```js
-prices.sort((a, b) => a - b); // [5, 10, 20]
-```
+<br/>
+
+**Galaga**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidallert/davidallert/arcade/galaga-contribution-graph-dark.svg" />
+  <img alt="Galaga played on my contribution graph" src="https://raw.githubusercontent.com/davidallert/davidallert/arcade/galaga-contribution-graph.svg" width="100%" />
+</picture>
+
+<br/>
+
+**Puzzle Bobble**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidallert/davidallert/arcade/puzzle-bobble-contribution-graph-dark.svg" />
+  <img alt="Puzzle Bobble played on my contribution graph" src="https://raw.githubusercontent.com/davidallert/davidallert/arcade/puzzle-bobble-contribution-graph.svg" width="100%" />
+</picture>
+
+<br/>
+
+**Bomberman**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidallert/davidallert/arcade/bomberman-contribution-graph-dark.svg" />
+  <img alt="Bomberman played on my contribution graph" src="https://raw.githubusercontent.com/davidallert/davidallert/arcade/bomberman-contribution-graph.svg" width="100%" />
+</picture>
+
+<br/>
+
+**Minesweeper**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidallert/davidallert/arcade/minesweeper-contribution-graph-dark.svg" />
+  <img alt="Minesweeper played on my contribution graph" src="https://raw.githubusercontent.com/davidallert/davidallert/arcade/minesweeper-contribution-graph.svg" width="100%" />
+</picture>
+
+<br/>
 
 </details>
 
-</details>
-
-<details>
-<summary><b>Round 2 · PHP 🐘</b> True or false?</summary>
-
-<br/>
-
-```php
-var_dump("abc" == 0);
-```
-
-<details>
-<summary>👀 Reveal the answer</summary>
-
-<br/>
-
-**`false`** in PHP 8 and later. In PHP 7 and earlier it was `true`, because the string was cast to `0`. PHP 8 changed how numbers and non-numeric strings are compared, which is one reason strict comparison (`===`) is still the safer habit.
-
-</details>
-
-</details>
-
-<details>
-<summary><b>Round 3 · SQL 🗄️</b> How many rows come back?</summary>
-
-<br/>
-
-```sql
-SELECT * FROM users WHERE deleted_at = NULL;
-```
-
-<details>
-<summary>👀 Reveal the answer</summary>
-
-<br/>
-
-**Zero rows, always.** In SQL, `NULL = NULL` is not true, it is *unknown*. Use `IS NULL` instead:
-
-```sql
-SELECT * FROM users WHERE deleted_at IS NULL;
-```
-
-</details>
-
-</details>
-
-<details>
-<summary><b>🏆 Score yourself</b></summary>
-
-<br/>
-
-| Score | Verdict |
-|:---:|---|
-| 0 / 3 | Welcome to web development. It gets better. |
-| 1 / 3 | Solid. The language quirks are coming for you. |
-| 2 / 3 | Impressive. You have been burned before. |
-| 3 / 3 | We should probably talk. 😄 |
-
-</details>
-
-<details>
-<summary><b>🥚 Secret easter egg</b></summary>
-
-<br/>
-
-```bash
-$ git checkout -b hire-david
-$ git commit -m "feat: add David to the team"
-$ git push origin hire-david
-```
-
-Pull request is open. Reviews welcome. → [LinkedIn](https://www.linkedin.com/in/david-allert/)
-
-</details>
-
-<br/>
+<br/><br/>
 
 <div align="center">
 
-### Thanks for stopping by. Let’s build something good. 🚀
+## Get in touch
 
-<a href="https://www.linkedin.com/in/david-allert/"><img src="https://img.shields.io/badge/Get%20in%20touch-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Get in touch on LinkedIn" /></a>
+If you’re hiring, or just want to talk shop, LinkedIn is the best way to reach me.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6C63FF,100:00D4FF&section=footer" alt="" width="100%" />
+<br/>
+
+<a href="https://www.linkedin.com/in/david-allert/"><img src="assets/btn-linkedin.svg" height="40" alt="Connect on LinkedIn" /></a>
+
+<br/><br/>
 
 </div>

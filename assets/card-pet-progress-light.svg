@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 237" width="600" height="237" role="img" aria-label="Pet Progress: A fullstack application with a Next.js frontend written in TypeScript and a separate Laravel backend. The frontend is deployed on Vercel.">
+<title>Pet Progress</title>
+<rect x="1" y="1" width="598" height="235" rx="22" fill="#FFFFFF" stroke="#E4E3F4" stroke-width="2"/>
+<rect x="30" y="34" width="5" height="28" rx="2.5" fill="#F5C84B"/>
+<text x="46" y="56" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="23" font-weight="700" fill="#0A0A0F" letter-spacing="-0.4">Pet Progress</text>
+<rect x="475" y="36" width="95" height="24" rx="12" fill="#FFF3CC"/>
+<text x="522.5" y="52" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="0.8" fill="#7A5800">FULLSTACK</text>
+<text x="32" y="100" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" fill="#4A4A5C">A fullstack application with a Next.js frontend written in</text>
+<text x="32" y="125" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" fill="#4A4A5C">TypeScript and a separate Laravel backend. The frontend is</text>
+<text x="32" y="150" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" fill="#4A4A5C">deployed on Vercel.</text>
+<rect x="32" y="181" width="98" height="26" rx="13" fill="#EEEDFF"/>
+<text x="81.0" y="198.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#4543F3">TypeScript</text>
+<rect x="138" y="181" width="76" height="26" rx="13" fill="#EEEDFF"/>
+<text x="176.0" y="198.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#4543F3">Next.js</text>
+<rect x="222" y="181" width="47" height="26" rx="13" fill="#EEEDFF"/>
+<text x="245.5" y="198.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#4543F3">PHP</text>
+<rect x="277" y="181" width="76" height="26" rx="13" fill="#EEEDFF"/>
+<text x="315.0" y="198.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#4543F3">Laravel</text>
+<rect x="361" y="181" width="69" height="26" rx="13" fill="#EEEDFF"/>
+<text x="395.5" y="198.5" text-anchor="middle" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#4543F3">Vercel</text>
+</svg>
