@@ -22,7 +22,7 @@ That background shapes how I work. I want to know what a feature is for and who 
 
 <br/><br/>
 
-## Choose your path 🏞
+## Choose your path
 
 Pick whichever fits you best and I’ll keep it short.
 
