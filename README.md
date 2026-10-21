@@ -16,13 +16,13 @@ I’m a fullstack developer based in Gothenburg. I come from e-commerce, where I
 
 That background shapes how I work. I want to know what a feature is for and who it helps before I build it, and I care about the things that tend to get skipped: search visibility, usability and accessibility.
 
-- **Right now:** building [SchemaAssistant](https://github.com/davidallert/schemassistant_client), a tool that generates Schema.org structured data from a URL
-- **Looking for:** fullstack or frontend roles with React, Next.js or Laravel <!-- edit this line to match what you want -->
+- **Right now:** building [Petfolio](https://www.petfolio.se/), a webapp where users can document their pets and track important milestones
+- **Looking for:** fullstack or frontend roles
 - **Based in:** Gothenburg, Sweden
 
 <br/><br/>
 
-## Choose your path
+## Choose your path 🏞
 
 Pick whichever fits you best and I’ll keep it short.
 
