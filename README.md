@@ -34,7 +34,7 @@ Pick whichever fits you best and I’ll keep it short.
 - **Role:** fullstack developer
 - **Stack:** TypeScript, JavaScript, React, Next.js, PHP, Laravel, SQL
 - **Background:** e-commerce, so I know SEO, CRO, UX and marketing from the business side
-- **Where to start:** [Pet Progress](https://github.com/davidallert/pet_progress_frontend) has a live demo, and [SchemaAssistant](https://github.com/davidallert/schemassistant_client) is what I’m working on now
+- **Where to start:** [Petfolio](https://github.com/davidallert/pet_progress_frontend) has a live demo, and I created [SchemaAssistant](https://github.com/davidallert/schemassistant_client) as part of my [university thesis](https://www.diva-portal.org/smash/record.jsf?faces-redirect=true&aq2=%5B%5B%5D%5D&af=%5B%5D&searchType=SIMPLE&sortOrder2=title_sort_asc&query=&language=sv&pid=diva2%3A1987132&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=627)
 - **Location:** Gothenburg, Sweden
 - **Contact:** [LinkedIn](https://www.linkedin.com/in/david-allert/)
 
@@ -88,12 +88,13 @@ I’ve worked on the marketing and conversion side of online stores, so SEO, CRO
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-pet-progress-dark.svg">
-  <img src="assets/card-pet-progress-light.svg" alt="Pet Progress: a fullstack application with a Next.js frontend and a Laravel backend" width="600" />
+  <img src="assets/card-pet-progress-light.svg" alt="Petfolio: a fullstack application with a Next.js frontend and a Laravel backend" width="600" />
 </picture>
 <br/>
-<a href="https://pet-progress-frontend.vercel.app">Live demo</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/davidallert/pet_progress_frontend">Frontend</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/davidallert/pet_progress_backend">Backend</a>
+<a href="https://petfolio.se">Live demo</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/davidallert/pet_progress_frontend">Frontend</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://github.com/davidallert/pet_progress_backend">Backend</a>
 </p>
-<!-- Add one sentence to the Pet Progress card describing what users can do in the app. -->
+
+![Petfolio Demo](/assets/petfolio-demo.gif)
 
 <br/>
 
@@ -206,7 +207,7 @@ The same graph, played by five more games.
 
 ## Get in touch
 
-If you’re hiring, or just want to talk shop, LinkedIn is the best way to reach me.
+If you’re hiring, or just want to talk, LinkedIn is the best way to reach me.
 
 <br/>
 
