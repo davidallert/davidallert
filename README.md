@@ -168,10 +168,6 @@ Most developers can build a feature. Fewer know whether it will rank, convert or
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/davidallert/davidallert/output/github-snake.svg" width="100%" />
 </picture>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=davidallert&bg_color=0d1117&color=6C63FF&line=00D4FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" alt="Contribution activity graph" width="100%" />
-
 </div>
 
 <br/>
